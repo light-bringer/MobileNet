@@ -95,7 +95,7 @@ Then convert it into tfrecord.
 python ./tools/tf_convert_data.py
 ```
 
-2. Mobify './script/train_mobilenet_on_kitti.sh' according to your environment.
+2. Modify './script/train_mobilenet_on_kitti.sh' according to your environment.
 ```
 bash ./script/train_mobilenetdet_on_kitti.sh
 ```
